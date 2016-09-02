@@ -529,7 +529,7 @@ function webglGraphics(options) {
         },
 
         /**
-         * Transforms WebGL coordinates into client coordinates. Reverse of 
+         * Transforms WebGL coordinates into client coordinates. Reverse of
          * `transformClientToGraphCoordinates()`
          *
          * @param {Object} p - a point object with `x` and `y` attributes, which

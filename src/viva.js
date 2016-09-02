@@ -54,6 +54,9 @@ Viva.Graph = {
   Utils: {
     // TODO: move to Input
     dragndrop: require('./Input/dragndrop.js'),
+    Bezier: require('./Utils/bezier.js'),
+    utils: require('./Utils/utils.js'),
+    PolyBezier: require('./Utils/poly-bezier.js'),
     findElementPosition: require('./Utils/findElementPosition.js'),
     timer: require('./Utils/timer.js'),
     getDimension: require('./Utils/getDimensions.js'),
